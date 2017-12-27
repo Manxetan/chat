@@ -1,0 +1,15 @@
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\amd64\libzmq.dll
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\amd64\libsodium.dll
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\i386\libzmq.dll
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\i386\libsodium.dll
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\amd64\libzmq.so
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\i386\libzmq.so
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\chat_s.exe.config
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\chat_s.exe
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\chat_s.pdb
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\ZeroMQ.dll
+C:\Users\Toha7\source\repos\chat_s\chat_s\bin\Debug\ZeroMQ.xml
+C:\Users\Toha7\source\repos\chat_s\chat_s\obj\Debug\chat_s.csprojResolveAssemblyReference.cache
+C:\Users\Toha7\source\repos\chat_s\chat_s\obj\Debug\chat_s.csproj.CoreCompileInputs.cache
+C:\Users\Toha7\source\repos\chat_s\chat_s\obj\Debug\chat_s.exe
+C:\Users\Toha7\source\repos\chat_s\chat_s\obj\Debug\chat_s.pdb
